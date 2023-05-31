@@ -1,0 +1,77 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+# Trezor Canary
+
+## Statements
+
+The Trezor core developers who have digitally signed this file [1]
+state the following:
+
+1. The date of issue of this canary is May 2nd, 2023.
+
+2. The Trezor Project has never:
+
+   a) turned over the bootloader/firmware private signing keys to anyone
+
+   b) introduced any backdoors to their software and/or hardware
+
+3. We plan to publish the next of these canary statements in the first
+two weeks of August 2023. Special note should be taken if no new canary
+is published by that time or if the list of statements changes without
+plausible explanation.
+
+## Disclaimers and notes
+
+We would like to remind you that Trezor has been designed under the
+assumption that all relevant infrastructure is permanently
+compromised.  This means that we assume NO trust in any of the servers
+or services which host or provide any Trezor-related data, in
+particular, software updates, source code repositories, and other
+downloads.
+
+This canary scheme is not infallible. Although signing the declaration
+makes it very difficult for a third party to produce arbitrary
+declarations, it does not prevent them from using force or other
+means, like blackmail or compromising the signers' laptops, to coerce
+us to produce false declarations.
+
+The news feeds quoted below (Proof of freshness) serves to demonstrate
+that this canary could not have been created prior to the date stated.
+It shows that a series of canaries was not created in advance.
+
+This declaration is merely a best effort and is provided without any
+guarantee or warranty. It is not legally binding in any way to
+anybody. None of the signers should be ever held legally responsible
+for any of the statements made here.
+
+## Proof of freshness
+
+Block at depth 787930 (2023-05-02 08:16 UTC) in the Bitcoin blockchain:
+
+0000000000000000000349920e874d48a76a3d7fca014d8cfd438d285d43414c
+
+## Footnotes
+
+[1] This file should be signed via attached PGP signatures below.
+
+[2] Don't just trust the contents of this file blindly! Verify the
+digital signatures!
+
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEhuZ5L8J7/UeIYMEQkfOzObmgKj0FAmRQ1EUACgkQkfOzObmg
+Kj1jGQ//eARyDKSYJC2zIqxE9iZ0liBgquHxTxHFM4f2xnK9UU0zCvUJnHa6Ofip
+qUwUzvxBh3Y8PVpoDZskYYOwujoUR8zCRghmVY6h8omG3gbnN/fWjRUWBIqCKAcr
+sbeJVzsyCAHdQ/9dn1eIHhpmHyxAWo0LTUgHrv6Ss5ovntW+YSs71eXLRV6QrYCa
+VD5Na5ys7VQTwHfiPY60wMczIJDg0wp62P7NUw1lwVnNohwoveF/pRMCakSUtlqC
+Y0YBy3uxsZJKfzTQTOuZ5IDcTh4c7du/NX+MRRZZYoTncgoxrxXlLqEB4IzUtxDc
+TohRm/6NSu4vw4x3yXnMIre7Cptkc4TWxa2ExqdVyBVbHPIrefEhaIkl+eyPpFK6
+NWfvXBjeSwy8gEEak66UO/ELwwBJOOOw18xaJQQJy9lV7bfrB1texmb9todh4teg
+qd9TcIB67Vu04FVZ2xPRlvpFRk8V9mg4Ufi0E0Yv8dgNsVlcwBU7OGSHClm5Y4cC
+1bNXcXJuVuO3UHmta/86bJUf+90CLODRC6OYpI3KDcgPjpze3NgtDddREd4Dhjkz
++YL+0nhAzWfjIZzHCCMNlQGajZ9S6HP1lP4sxXgAvSc/ZJJ1/v/DBVTuvuA1XKP7
+R62a1MAdxEZoCkC7fitA8tgyKYUlT5YhaB9DgFp71mxyeOlaS24=
+=wowp
+-----END PGP SIGNATURE-----
