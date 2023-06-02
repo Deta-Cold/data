@@ -7,7 +7,7 @@ with import
 { };
 
 stdenv.mkDerivation {
-  name = "trezor-data";
+  name = "detahard-data";
   buildInputs = [
     bash
     awscli

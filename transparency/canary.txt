@@ -1,16 +1,16 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
-# Trezor Canary
+# detahard Canary
 
 ## Statements
 
-The Trezor core developers who have digitally signed this file [1]
+The detahard core developers who have digitally signed this file [1]
 state the following:
 
 1. The date of issue of this canary is May 2nd, 2023.
 
-2. The Trezor Project has never:
+2. The detahard Project has never:
 
    a) turned over the bootloader/firmware private signing keys to anyone
 
@@ -23,10 +23,10 @@ plausible explanation.
 
 ## Disclaimers and notes
 
-We would like to remind you that Trezor has been designed under the
+We would like to remind you that detahard has been designed under the
 assumption that all relevant infrastructure is permanently
 compromised.  This means that we assume NO trust in any of the servers
-or services which host or provide any Trezor-related data, in
+or services which host or provide any detahard-related data, in
 particular, software updates, source code repositories, and other
 downloads.
 
